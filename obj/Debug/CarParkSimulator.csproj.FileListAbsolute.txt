@@ -1,0 +1,9 @@
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\bin\Debug\CarParkSimulator.exe.config
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\obj\Debug\CarParkSimulator.csprojResolveAssemblyReference.cache
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\obj\Debug\CarParkSimulator.Properties.Resources.resources
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\obj\Debug\CarParkSimulator.SimulatorInterface.resources
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\obj\Debug\CarParkSimulator.csproj.GenerateResource.Cache
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\bin\Debug\CarParkSimulator.exe
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\bin\Debug\CarParkSimulator.pdb
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\obj\Debug\CarParkSimulator.exe
+F:\VisualStudio\IRSM\car park assignment\Car Park Simulator Student Version\CarParkSimulator\obj\Debug\CarParkSimulator.pdb
